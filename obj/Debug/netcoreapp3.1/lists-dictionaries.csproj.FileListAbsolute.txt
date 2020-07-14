@@ -1,0 +1,13 @@
+C:\Users\barry\workspace\server-side\book-one\lists-dictionaries\bin\Debug\netcoreapp3.1\lists-dictionaries.exe
+C:\Users\barry\workspace\server-side\book-one\lists-dictionaries\bin\Debug\netcoreapp3.1\lists-dictionaries.deps.json
+C:\Users\barry\workspace\server-side\book-one\lists-dictionaries\bin\Debug\netcoreapp3.1\lists-dictionaries.runtimeconfig.json
+C:\Users\barry\workspace\server-side\book-one\lists-dictionaries\bin\Debug\netcoreapp3.1\lists-dictionaries.runtimeconfig.dev.json
+C:\Users\barry\workspace\server-side\book-one\lists-dictionaries\bin\Debug\netcoreapp3.1\lists-dictionaries.dll
+C:\Users\barry\workspace\server-side\book-one\lists-dictionaries\bin\Debug\netcoreapp3.1\lists-dictionaries.pdb
+C:\Users\barry\workspace\server-side\book-one\lists-dictionaries\obj\Debug\netcoreapp3.1\lists-dictionaries.csprojAssemblyReference.cache
+C:\Users\barry\workspace\server-side\book-one\lists-dictionaries\obj\Debug\netcoreapp3.1\lists-dictionaries.AssemblyInfoInputs.cache
+C:\Users\barry\workspace\server-side\book-one\lists-dictionaries\obj\Debug\netcoreapp3.1\lists-dictionaries.AssemblyInfo.cs
+C:\Users\barry\workspace\server-side\book-one\lists-dictionaries\obj\Debug\netcoreapp3.1\lists-dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\barry\workspace\server-side\book-one\lists-dictionaries\obj\Debug\netcoreapp3.1\lists-dictionaries.dll
+C:\Users\barry\workspace\server-side\book-one\lists-dictionaries\obj\Debug\netcoreapp3.1\lists-dictionaries.pdb
+C:\Users\barry\workspace\server-side\book-one\lists-dictionaries\obj\Debug\netcoreapp3.1\lists-dictionaries.genruntimeconfig.cache
